@@ -9,6 +9,12 @@ This section of the documentation discusses installing and configuring the NetBo
 # easy_install3 pip
 ```
 
+**Ubuntu 18.04**
+
+```no-highlight
+# apt install -y python3 python3-dev python3-setuptools build-essential libxml2-dev libxslt1-dev libffi-dev graphviz libpq-dev libssl-dev zlib1g-dev python3-pip
+```
+
 **CentOS**
 
 ```no-highlight
